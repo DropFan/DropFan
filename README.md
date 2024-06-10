@@ -39,10 +39,15 @@ Full Stack Developer.
 
 一些价值观：
 >探索 发现 创造 体验
+>
 >保持好奇心 探索欲
+>
 >独立思考 守正出奇
+>
 >乐于分享 分享即学习，利他即利己
+>
 >开放心态 接受世界和人类的多样性
+>
 >长期主义 做时间的朋友，延迟满足
 
 90后，世纪之交早期互联网土著，20余年折腾技术的经历，早年研究网络安全(大约2005年～2010年)，后来长大参加工作后成为投身互联网，成为软件工程师。
@@ -54,6 +59,7 @@ Full Stack Developer.
 
 主要技术栈
 >Golang, PHP, Python, Javascript, TypeScript, HTML/CSS
+>
 >React, Next, Redis, MySQL, PostgreSQL, Nginx, Linux
 
 
