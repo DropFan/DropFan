@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dropfan&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+![I'm Tiger](gitartwork.svg)
+
 ## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#issuecomment-new)
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
 
 <!-- /Guestbook -->
-
-![I'm Tiger](gitartwork.svg)
 
 ## About Me
 
