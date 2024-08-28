@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 ## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#issuecomment-new)
 <!-- Guestbook -->
-| Name | Date(UTC) | Message |
+| Name | Date | Message |
 |---|---|---|
+| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |8/28/2024, 5:56:37 PM|最近在整理硬盘上的文件，发现命令行下并没有一个比较好用的工具。<br />ncdu 虽然不错，但是不支持预览文件内容，本想自己写一个，不过在写工具的过程中发现了一个工具 (gdu, 一个用 golang 实现的 ncdu)，暂时可以满足我的需求。算了...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |8/28/2024, 3:44:18 PM|Cool~|
 <!-- /Guestbook -->
 
