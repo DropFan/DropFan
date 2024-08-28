@@ -16,9 +16,8 @@
             user_name: DropFan
             # Text on contribution graph 
             text: I'mTiger
-       - run:
+       - run: |
           git config --global user.name 'Tiger'
           git config --global user.email 'DropFan@Gmail.com'
           git commit -am 'gitartwork action'
           git push
-       
