@@ -2,7 +2,7 @@
  on: 
    push:
    schedule:
-     - cron: '* */24 * * *'
+     - cron: '* * * * *'
    workflow_dispatch:
  jobs:
    build:
@@ -16,4 +16,9 @@
             user_name: DropFan
             # Text on contribution graph 
             text: I'mTiger
-       - uses: jasineri/simple-push-action@v1
+       - run:
+          git config --global user.name 'Tiger'
+          git config --global user.email 'DropFan@Gmail.com'
+          git commit -am 'gitartwork action'
+          git push
+       
