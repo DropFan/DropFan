@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 ## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#issuecomment-new)
 <!-- Guestbook -->
-| Name | Date | Message |
+| Name | Date (UTC) | Message |
 |---|---|---|
+| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |9/5/2024, 11:31:30 PM|ComfyUI-Portrait-Master 最近经常玩 ComfyUI 的这个 node，基于最新版本我做了一些修改并做了汉化，ComfyUI-ComfyUI-Portrait-Master-CN.<br />正准备提交到 ComfyUI-Man...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |8/28/2024, 6:15:20 PM|除了前面提到的 ncdu 和 gdu，再顺便推荐两个工具，rdfind 和 rmlint，都可以通过 brew 快速安装。这俩工具可以扫描并删除重复文件或者建立硬链接来节省磁盘空间。<br />PS：微信多次转发同一文件，真的是硬链接，我验证过了，不...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |8/28/2024, 6:05:59 PM|最近在整理硬盘上的文件，发现命令行下并没有一个比较好用的工具。<br />ncdu 虽然不错，但是不支持预览文件内容，本想自己写一个，不过在写的过程中发现了一个工具暂时可以满足我的预览内容需求。但我理想状态的工具需要具备完整的文件管理和磁盘分析功能，...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |8/28/2024, 3:44:18 PM|Cool~|
