@@ -54,8 +54,6 @@ Full Stack Developer.
 >
 >这两年在关注独立开发者、AI、工具出海等领域，
 >
->最近在玩 Stable Diffusion 和 ComfyUI
->
 >有人一起玩吗？欢迎交流～
 
 一些价值观：
