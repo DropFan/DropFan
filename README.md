@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!-- Guestbook -->
 | Name | Date (UTC) | Message |
 |---|---|---|
+| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |3/3/2025, 11:11:50 AM|毫无疑问，2025年是 AI 应用爆发的一年。<br />继续聊 AI。这世界变化太快，真的是AI 一天，人间一年。每天要学习和研究的东西太多了，看不过来，学不过来，用不过来。<br />一个月前，我写了一篇文章：DeepSeek，是 AI 大模型的...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |1/10/2025, 3:16:31 PM|我们从最近火热的 AI 编程作为切入点，一起探索什么是“用好 AI ”的关键能力。技术仅作为工具能力，如何替代人类工作，找到合适的信息流动和组织方式，才是提升效率和效果的关键。<br />最近我也在和朋友讨论 AI 编程这件事情。我觉得大多数人欠缺的...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |12/25/2024, 2:56:19 PM|“何以解忧？唯有AI”——为什么我认为AI是一场革命<br />能不能实现 AGI 我不知道，至少目前我还看不到。是不是 OpenAI 不重要，是不是 GPT 也不重要。但我能看到的是，AI 现在真的可以替代人类的很多工作了。<br />最近有两句话...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |9/22/2024, 5:54:48 AM|前段时间都在玩黑神话悟空，玩到一半写评测的时候觉得离神作可能还有点距离，虽然整体要吐槽的点很多，也有明显不足，但瑕不掩瑜。通关以后，最大感受是一场意犹未尽的精神享受。<br />我想这一部果然不负众望的作品称为国产游戏巅峰神作不过分。<br />很久...|
 | <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |9/5/2024, 11:31:30 PM|ComfyUI-Portrait-Master 最近经常玩 ComfyUI 的这个 node，基于最新版本我做了一些修改并做了汉化，ComfyUI-ComfyUI-Portrait-Master-CN.<br />正准备提交到 ComfyUI-Man...|
-| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |8/28/2024, 6:15:20 PM|除了前面提到的 ncdu 和 gdu，再顺便推荐两个工具，rdfind 和 rmlint，都可以通过 brew 快速安装。这俩工具可以扫描并删除重复文件或者建立硬链接来节省磁盘空间。<br />PS：微信多次转发同一文件，真的是硬链接，我验证过了，不...|
 <!-- /Guestbook -->
 
 ## About Me
