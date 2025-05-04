@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 My Blog:
 
-![公众号 Hacking4fun](./assets/wechat_hacking4fun.png)
+<img src="https://github.com/DropFan/DropFan/raw/main/assets/wechat_hacking4fun.png" alt="公众号 Hacking4fun" style="width:26em;max-width: 100%;">
 
 [About Me](#about-me)
 
