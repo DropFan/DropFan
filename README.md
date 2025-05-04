@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 ![I'm Tiger](gitartwork.svg)
 
+My Blog:
+
+![公众号 Hacking4fun](https://github.com/DropFan/DropFan/assets/wechat_hacking4fun.png)
+
+[About Me](#about-me)
+
+
 ## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#react-issue-comment-composer)
 <!-- Guestbook -->
 | Name | Date (UTC) | Message |
