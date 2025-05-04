@@ -49,42 +49,15 @@ jobs:
 
             const result = await github.graphql(query, variables)
             const renderComments = (comments) => {
-              // 添加CSS样式
-              const cssStyle = `<style>
-                .guestbook-link {
-                  text-decoration: none;
-                  color: #0366d6;
-                  transition: all 0.2s ease;
-                }
-                .guestbook-link:hover {
-                  text-decoration: underline;
-                  color: #0076ff;
-                }
-                .guestbook-message {
-                  text-decoration: none;
-                  color: #24292e;
-                  transition: all 0.2s ease;
-                }
-                .guestbook-message:hover {
-                  text-decoration: underline;
-                  color: #0366d6;
-                }
-                .guestbook-avatar {
-                  border-radius: 50%;
-                  vertical-align: middle;
-                  margin-right: 5px;
-                }
-              </style>`;
-
               const tableHeader = "| Name | Date (UTC) | Message |\n|---|---|---|\n";
 
               const tableContent = comments.reduce((prev, curr) => {
                 let text = curr.bodyText.replace(/(\r\n|\r|\n)/g, "<br />").replace(/\|/g, '&#124;');
                 text = truncateString(text, 125);
-                return `${prev}| <a href="${curr.author.url}" target="_blank" class="guestbook-link"><img width="24" src="${curr.author.avatarUrl}" alt="${curr.author.login}" class="guestbook-avatar"/> ${curr.author.login}</a> |${new Date(curr.updatedAt).toLocaleString()}|<a href="${curr.url}" target="_blank" class="guestbook-message">${text}</a>|\n`;
+                return `${prev}| <a href="${curr.author.url}" target="_blank" style="text-decoration: none; color: #0366d6;"><img width="24" src="${curr.author.avatarUrl}" alt="${curr.author.login}" style="border-radius: 50%; vertical-align: middle; margin-right: 5px;"/> ${curr.author.login}</a> |${new Date(curr.updatedAt).toLocaleString()}|<a href="${curr.url}" target="_blank" style="text-decoration: none; color: #24292e;">${text}</a>|\n`;
               }, "");
 
-              return cssStyle + tableHeader + tableContent;
+              return tableHeader + tableContent;
             };
 
             const fileSystem = require('fs');
