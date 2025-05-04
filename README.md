@@ -21,13 +21,37 @@ Here are some ideas to get you started:
 
 ## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#react-issue-comment-composer)
 <!-- Guestbook -->
-| Name | Date (UTC) | Message |
+<style>
+    .guestbook-link {
+      text-decoration: none;
+      color: #0366d6;
+      transition: all 0.2s ease;
+    }
+    .guestbook-link:hover {
+      text-decoration: underline;
+      color: #0076ff;
+    }
+    .guestbook-message {
+      text-decoration: none;
+      color: #24292e;
+      transition: all 0.2s ease;
+    }
+    .guestbook-message:hover {
+      text-decoration: underline;
+      color: #0366d6;
+    }
+    .guestbook-avatar {
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+  </style>| Name | Date (UTC) | Message |
 |---|---|---|
-| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |5/4/2025, 5:44:59 AM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2849022794">update guestbook action</a>|
-| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |5/2/2025, 6:37:06 PM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2847856535">围墙花园、苹果败诉与 AI 时代的自由：数字时代生存之道<br />Google NotebookLM 生成的中文播客效果不错，我把这篇文章生成了一个播客，没有额外加提示词，文章里可以听。<br />围墙花园不会一夜消失，但自由的火种不会熄灭。每个人...</a>|
-| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |4/18/2025, 5:41:12 PM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2815911033">本文内容对独立开发者、跨境独立站、SEO玩家等依赖搜索引擎作为主要流量渠道的玩家比较关键。<br />大语言模型正在重构流量入口，搜索引擎逐渐失去主导权。这场深刻变革不仅影响用户习惯，也将重塑内容分发与广告生态，相关从业者需要尽早应对。<br />本...</a>|
-| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |4/11/2025, 9:50:15 PM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2798070117">我感觉 Agent 的趋势可能逐渐明朗了，Multi-Agent + 专用 Agent, 今年真的是 Agent 爆发的一年，作为应用层的开发者可以多关注下 Google 刚发布的 Agent 开发框架 ADK 和用于 Agent 通信的 A2A 协...</a>|
-| <a href="https://github.com/DropFan"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" /> DropFan</a> |3/3/2025, 11:11:50 AM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2694026622">毫无疑问，2025年是 AI 应用爆发的一年。<br />继续聊 AI。这世界变化太快，真的是AI 一天，人间一年。每天要学习和研究的东西太多了，看不过来，学不过来，用不过来。<br />一个月前，我写了一篇文章：DeepSeek，是 AI 大模型的...</a>|
+| <a href="https://github.com/DropFan" target="_blank" class="guestbook-link"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" class="guestbook-avatar"/> DropFan</a> |5/4/2025, 6:00:52 AM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2849022794" target="_blank" class="guestbook-message">update guestbook action，beautify style</a>|
+| <a href="https://github.com/DropFan" target="_blank" class="guestbook-link"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" class="guestbook-avatar"/> DropFan</a> |5/2/2025, 6:37:06 PM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2847856535" target="_blank" class="guestbook-message">围墙花园、苹果败诉与 AI 时代的自由：数字时代生存之道<br />Google NotebookLM 生成的中文播客效果不错，我把这篇文章生成了一个播客，没有额外加提示词，文章里可以听。<br />围墙花园不会一夜消失，但自由的火种不会熄灭。每个人...</a>|
+| <a href="https://github.com/DropFan" target="_blank" class="guestbook-link"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" class="guestbook-avatar"/> DropFan</a> |4/18/2025, 5:41:12 PM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2815911033" target="_blank" class="guestbook-message">本文内容对独立开发者、跨境独立站、SEO玩家等依赖搜索引擎作为主要流量渠道的玩家比较关键。<br />大语言模型正在重构流量入口，搜索引擎逐渐失去主导权。这场深刻变革不仅影响用户习惯，也将重塑内容分发与广告生态，相关从业者需要尽早应对。<br />本...</a>|
+| <a href="https://github.com/DropFan" target="_blank" class="guestbook-link"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" class="guestbook-avatar"/> DropFan</a> |4/11/2025, 9:50:15 PM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2798070117" target="_blank" class="guestbook-message">我感觉 Agent 的趋势可能逐渐明朗了，Multi-Agent + 专用 Agent, 今年真的是 Agent 爆发的一年，作为应用层的开发者可以多关注下 Google 刚发布的 Agent 开发框架 ADK 和用于 Agent 通信的 A2A 协...</a>|
+| <a href="https://github.com/DropFan" target="_blank" class="guestbook-link"><img width="24" src="https://avatars.githubusercontent.com/u/1765378?s=24&u=856b621b99ff7c3bf23f4dcbd096e2569f7df7e1&v=4" alt="DropFan" class="guestbook-avatar"/> DropFan</a> |3/3/2025, 11:11:50 AM|<a href="https://github.com/DropFan/DropFan/issues/1#issuecomment-2694026622" target="_blank" class="guestbook-message">毫无疑问，2025年是 AI 应用爆发的一年。<br />继续聊 AI。这世界变化太快，真的是AI 一天，人间一年。每天要学习和研究的东西太多了，看不过来，学不过来，用不过来。<br />一个月前，我写了一篇文章：DeepSeek，是 AI 大模型的...</a>|
 <!-- /Guestbook -->
 
 ## About Me
