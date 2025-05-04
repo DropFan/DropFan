@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![I'm Tiger](gitartwork.svg)
 
-## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#new_comment_field)
+## Guestbook [📝Click here to leave a message](https://github.com/DropFan/DropFan/issues/1#react-issue-comment-composer)
 <!-- Guestbook -->
 | Name | Date (UTC) | Message |
 |---|---|---|
